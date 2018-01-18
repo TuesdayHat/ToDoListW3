@@ -63,3 +63,11 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 # End of https://www.gitignore.io/api/java,gradle
+
+build/
+.gradle/
+.idea/
+gradle/
+gradlew*
+settings.gradle
+*.iml
